@@ -1,0 +1,14 @@
+{
+  "name": "eslint-typescript-parser-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "prettier": "^1.9.2",
+    "typescript": "^2.6.2",
+    "typescript-eslint-parser": "^11.0.0"
+  }
+}
